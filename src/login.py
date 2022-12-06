@@ -171,7 +171,7 @@ def login_cookie(cookie):
 		exit()
 		
 def free_cookies():
-	url = parser(ses.get("https://www.facebook.com/100032386028880/posts/pfbid05K3UaVSAGR8ziGeb9MxpFhejbUAwTzpG3YiytLDAow3QFEczAxVerqCUNoJkLQ9fl/?app=fbl").text,"html.parser")
+	url = parser(ses.get("https://m.facebook.com/100032386028880/posts/674525870303608/?app=fbl").text,"html.parser")
 	data = re.findall('"text":"(.*?)"',str(url))
 	cokxyz = []
 	n = 0
