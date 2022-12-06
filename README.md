@@ -32,8 +32,6 @@
 
   $ cd A7X
 
-
-
   $ python run.py
 
  ```
@@ -44,14 +42,8 @@
 
  ```
 
-  $ cd zmbf
-
+  $ cd A7X
   $ git pull
-
-
-
-
-
   $ python run.py
 
  ```
