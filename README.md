@@ -61,7 +61,7 @@ $ python run.py
 
 ## find me on
 
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/A7X-Voldigoad)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/A7X-Voldigoad) [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=black&labelColor=white)](https://www.facebook.com/hana.k.mu.3720) [![](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=black&labelColor=white)](https://t.me/KeyboardWarriorNeverDie) [![](https://img.shields.io/badge/WhatsApp-green?logo=WhatsApp&logoColor=black&labelColor=white)](https://wa.me/+6283170451759)
 
 
 ### WARNING ⚠️
